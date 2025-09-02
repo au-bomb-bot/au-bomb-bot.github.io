@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bomb Bot Project Launch"
+title: "Bomb Bot: Project Launch"
 ---
 
 # The Mission
