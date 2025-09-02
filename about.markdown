@@ -11,26 +11,34 @@ permalink: /about/
         object-fit: cover; /* Prevents the image from stretching */
         border-radius: 50%; /* Optional: Makes the images circular */
     }
+    .team-member {
+        display: flex;
+        align-items: center; /* Vertically aligns the text with the image */
+        gap: 20px; /* Adds space between the text and image */
+        margin-bottom: 20px; /* Adds space between team members */
+    }
 </style>
 
-<div style="display: flex; gap: 40px; flex-wrap: wrap;">
-  <div style="text-align: left;">
+<div class="team-container">
+  <div class="team-member">
+    <div>
+      <strong>Charles Brammell</strong>
+      <br>
+      <a href="mailto:chb0055@auburn.edu">chb0055@auburn.edu</a>
+      <br>
+      Senior in computer engineering intrested in signal processing and MRI.
+    </div>
     <img src="/assets/images/charles_headshot.jpeg" alt="Charles Brammell" class="headshot">
-    <br>
-    <strong>Charles Brammell</strong>
-    <br>
-    <a href="mailto:chb0055@auburn.edu">chb0055@auburn.edu</a>
-    <br>
-    Senior in computer engineering intrested in signal processing and MRI.
   </div>
-  <!-- Add more team members here inside their own div -->
-  <div>
+
+  <div class="team-member">
+    <div>
+      <strong>Rhianna Dunn</strong>
+      <br>
+      <a href="mailto:rgd0015@auburn.edu">rgd0015@auburn.edu</a>
+      <br>
+      Senior in eletrical engineering intrested in ....
+    </div>
     <img src="/assets/images/placeholder_headshot.png" alt="Rhianna Dunn" class="headshot">
-    <br>
-    <strong>Rhianna Dunn</strong>
-    <br>
-    <a href="mailto:rgd0015@auburn.edu">rgd0015@auburn.edu</a>
-    <br>
-    Senior in eletrical engineering intrested in ....
   </div>
 </div>
