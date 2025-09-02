@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Bomb Bot Project Launch
-permalink: /project-launch/
+title: "Bomb Bot Project Launch"
 ---
 
 # The Mission
