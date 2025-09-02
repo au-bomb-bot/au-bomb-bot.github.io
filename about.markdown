@@ -21,6 +21,7 @@ permalink: /about/
 
 <div class="team-container">
   <div class="team-member">
+    <img src="/assets/images/charles_headshot.jpeg" alt="Charles Brammell" class="headshot">
     <div>
       <strong>Charles Brammell</strong>
       <br>
@@ -28,10 +29,10 @@ permalink: /about/
       <br>
       Senior in computer engineering intrested in signal processing and MRI.
     </div>
-    <img src="/assets/images/charles_headshot.jpeg" alt="Charles Brammell" class="headshot">
   </div>
 
   <div class="team-member">
+    <img src="/assets/images/placeholder_headshot.png" alt="Rhianna Dunn" class="headshot">
     <div>
       <strong>Rhianna Dunn</strong>
       <br>
@@ -39,6 +40,5 @@ permalink: /about/
       <br>
       Senior in eletrical engineering intrested in ....
     </div>
-    <img src="/assets/images/placeholder_headshot.png" alt="Rhianna Dunn" class="headshot">
   </div>
 </div>
