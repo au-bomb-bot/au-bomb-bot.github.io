@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Team Members
 permalink: /about/
 ---
 
@@ -10,22 +10,20 @@ permalink: /about/
     }
 </style>
 
-# Team Members
-
 <div style="display: flex; gap: 40px; flex-wrap: wrap;">
   <div style="text-align: left;">
     <img src="/assets/images/charles_headshot.jpeg" alt="Charles Brammell" class="headshot">
     <br>
-    **Charles Brammell**
+    <strong>Charles Brammell</strong>
     <br>
-    chb0055@auburn.edu
+    <a href="mailto:chb0055@auburn.edu">chb0055@auburn.edu</a>
   </div>
   <!-- Add more team members here inside their own div -->
   <div>
-    <img src="/assets/images/rhianna_headshop.jpeg" alt="Rhianna Dunn" class="headshot">
+    <img src="/assets/images/placeholder_headshot.png" alt="Rhianna Dunn" class="headshot">
     <br>
-    **Rhianna Dunn**
+    <strong>Rhianna Dunn</strong>
     <br>
-    rgd0015@auburn.edu
+    <a href="mailto:rgd0015@auburn.edu">rgd0015@auburn.edu</a>
   </div>
 </div>
