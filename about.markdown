@@ -7,6 +7,9 @@ permalink: /about/
 <style>
     .headshot {
         width: 150px;
+        height: 150px; /* Set a fixed height */
+        object-fit: cover; /* Prevents the image from stretching */
+        border-radius: 50%; /* Optional: Makes the images circular */
     }
 </style>
 
