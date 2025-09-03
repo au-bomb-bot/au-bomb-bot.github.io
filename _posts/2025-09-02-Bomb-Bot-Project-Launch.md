@@ -5,9 +5,9 @@ title: "Bomb Bot: Project Launch"
 
 # The Mission
 
-Our primary goal is to design and build a robotic system capable of operating inside an explosive atmosphere chamber. This system needs to be able to manipulate a variety of controls—from simple toggle switches and rotary dials to modern touchscreens—all without causing damage or creating a spark. Safety and precision are paramount, as the chamber itself cannot be modified. On top of that, the entire system must be built to withstand the rigorous conditions defined by MIL-STD-810H testing.
+Our primary goal is to design and build a robotic system capable of operating inside an explosive atmosphere chamber. This system needs to be able to manipulate a variety of controls, from simple toggle switches and rotary dials to modern touchscreens,all without causing damage or creating a spark. Safety and precision are paramount, as the chamber itself cannot be modified. On top of that, the entire system must be built to withstand the rigorous conditions defined by MIL-STD-810H testing.
 
-![Chamber](/assets/images/chamber.png)
+![Chamber]("/assets/images/chamber.PNG/")
 
 # Cross-Disciplinary Challenge
 
