@@ -1,18 +1,44 @@
 ---
 layout: page
-title: About
+title: Team Members
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<style>
+    .headshot {
+        width: 150px;
+        height: 150px; /* Set a fixed height */
+        object-fit: cover; /* Prevents the image from stretching */
+        border-radius: 50%; /* Optional: Makes the images circular */
+    }
+    .team-member {
+        display: flex;
+        align-items: center; /* Vertically aligns the text with the image */
+        gap: 20px; /* Adds space between the text and image */
+        margin-bottom: 20px; /* Adds space between team members */
+    }
+</style>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<div class="team-container">
+  <div class="team-member">
+    <img src="/assets/images/charles_headshot.jpeg" alt="Charles Brammell" class="headshot">
+    <div>
+      <strong>Charles Brammell</strong>
+      <br>
+      <a href="mailto:chb0055@auburn.edu">chb0055@auburn.edu</a>
+      <br>
+      Senior in computer engineering intrested in signal processing and MRI.
+    </div>
+  </div>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+  <div class="team-member">
+    <img src="/assets/images/placeholder_headshot.png" alt="Rhianna Dunn" class="headshot">
+    <div>
+      <strong>Rhianna Dunn</strong>
+      <br>
+      <a href="mailto:rgd0015@auburn.edu">rgd0015@auburn.edu</a>
+      <br>
+      Senior in electrical engineering, born and raised in Austin, Texas.
+    </div>
+  </div>
+</div>
