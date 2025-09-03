@@ -21,7 +21,7 @@
 title: "Auburn Engineering Senior Design Team 16: Bomb Bot"
 description: >- # this means to ignore newlines until "baseurl:"
   A remote robotic system is needed to safely manipulate equipment controls inside a hazardous, explosive atmosphere chamber without modifying the pressure vessel for safety reasons. Our interdisciplinary design team comprised of electrical, computer, and mechanical engineering seniors at Auburn University applies principles and theory we have learned to produce novel solutions to this issue and any challenges we may encounter throughout the process.
-baseurl: "https://au-bomb-bot.github.io" # the subpath of your site, e.g. /blog
+baseurl: "au-bomb-bot.github.io" # the subpath of your site, e.g. /blog
 url: "https://au-bomb-bot.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  au-bomb-bot
 
