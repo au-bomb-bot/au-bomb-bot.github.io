@@ -32,7 +32,7 @@ permalink: /about/
   </div>
 
   <div class="team-member">
-    <img src="/assets/images/placeholder_headshot.png" alt="Rhianna Dunn" class="headshot">
+    <img src="/assets/images/Rhianna_Headshot.jpg" alt="Rhianna Dunn" class="headshot">
     <div>
       <strong>Rhianna Dunn</strong>
       <br>
