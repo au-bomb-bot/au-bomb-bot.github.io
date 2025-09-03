@@ -38,7 +38,7 @@ permalink: /about/
       <br>
       <a href="mailto:rgd0015@auburn.edu">rgd0015@auburn.edu</a>
       <br>
-      Senior in eletrical engineering.
+      Senior in electrical engineering, born and raised in Austin, Texas.
     </div>
   </div>
 </div>
