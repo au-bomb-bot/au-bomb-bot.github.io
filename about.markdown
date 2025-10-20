@@ -43,7 +43,7 @@ permalink: /about/
   </div>
 
   <div class="team-member">
-    <img src="/assets/images/archer_headshot.jpg" alt="Archer Williamson" class="headshot">
+    <img src="/assets/images/archer_headshot.jpeg" alt="Archer Williamson" class="headshot">
     <div>
       <strong>Archer Williamson</strong>
       <br>
@@ -55,7 +55,7 @@ permalink: /about/
 
 
   <div class="team-member">
-    <img src="/assets/images/placehold_headshot.jpg" alt="Walker Greene" class="headshot">
+    <img src="/assets/images/placeholder_headshot.png" alt="Walker Greene" class="headshot">
     <div>
       <strong>Walker Greene</strong>
       <br>
@@ -67,7 +67,7 @@ permalink: /about/
 
 
   <div class="team-member">
-    <img src="/assets/images/placehold_headshot.jpg" alt="Emma Moriarty" class="headshot">
+    <img src="/assets/images/placeholder_headshot.png" alt="Emma Moriarty" class="headshot">
     <div>
       <strong>Emma Moriarty</strong>
       <br>
