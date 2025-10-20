@@ -41,7 +41,6 @@ permalink: /about/
       Senior in electrical engineering, born and raised in Austin, Texas.
     </div>
   </div>
-</div>
 
   <div class="team-member">
     <img src="/assets/images/archer_headshot.jpg" alt="Archer Williamson" class="headshot">
@@ -53,7 +52,7 @@ permalink: /about/
       Senior in mechanical engineering, with a minor in materials engineering. Four year member of the Auburn Marching Band.
     </div>
   </div>
-</div>
+
 
   <div class="team-member">
     <img src="/assets/images/placehold_headshot.jpg" alt="Walker Greene" class="headshot">
@@ -65,7 +64,7 @@ permalink: /about/
       Senior in mechanical engineering, with a minor in business. Serves as team manager.
     </div>
   </div>
-</div>
+
 
   <div class="team-member">
     <img src="/assets/images/placehold_headshot.jpg" alt="Emma Moriarty" class="headshot">
