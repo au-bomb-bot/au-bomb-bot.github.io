@@ -67,7 +67,7 @@ permalink: /about/
 
 
   <div class="team-member">
-    <img src="/assets/images/placeholder_headshot.png" alt="Emma Moriarty" class="headshot">
+    <img src="/assets/images/emma_headshot.jpeg" alt="Emma Moriarty" class="headshot">
     <div>
       <strong>Emma Moriarty</strong>
       <br>
