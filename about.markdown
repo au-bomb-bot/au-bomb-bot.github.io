@@ -27,7 +27,7 @@ permalink: /about/
       <br>
       <a href="mailto:chb0055@auburn.edu">chb0055@auburn.edu</a>
       <br>
-      Senior in computer engineering intrested in signal processing and MRI.
+      Senior in computer engineering with a minor in finance, intrested in signal processing, digital systems, and MRI.
     </div>
   </div>
 
@@ -39,6 +39,42 @@ permalink: /about/
       <a href="mailto:rgd0015@auburn.edu">rgd0015@auburn.edu</a>
       <br>
       Senior in electrical engineering, born and raised in Austin, Texas.
+    </div>
+  </div>
+</div>
+
+  <div class="team-member">
+    <img src="/assets/images/archer_headshot.jpg" alt="Archer Williamson" class="headshot">
+    <div>
+      <strong>Archer Williamson</strong>
+      <br>
+      <a href="mailto:aew0119@auburn.edu">aew0119@auburn.edu</a>
+      <br>
+      Senior in mechanical engineering, with a minor in materials engineering. Four year member of the Auburn Marching Band.
+    </div>
+  </div>
+</div>
+
+  <div class="team-member">
+    <img src="/assets/images/placehold_headshot.jpg" alt="Walker Greene" class="headshot">
+    <div>
+      <strong>Walker Greene</strong>
+      <br>
+      <a href="mailto:wkg0011@auburn.edu">wkg0011@auburn.edu</a>
+      <br>
+      Senior in mechanical engineering, with a minor in business. Serves as team manager.
+    </div>
+  </div>
+</div>
+
+  <div class="team-member">
+    <img src="/assets/images/placehold_headshot.jpg" alt="Emma Moriarty" class="headshot">
+    <div>
+      <strong>Emma Moriarty</strong>
+      <br>
+      <a href="mailto:egm0070@auburn.edu">egm0070@auburn.edu</a>
+      <br>
+      Senior in mechanical engineering. Serves as team scribe.
     </div>
   </div>
 </div>
