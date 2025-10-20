@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Week Six: Status Update"
+date : 10-10-2025
+---
+
+# Progress This Week
+
+This week, the team made significant progress on the project. They successfully created a rough draft of concept designs for both the mechanical and electrical components of the explosive atmosphere chamber robotic system. Additionally, the team completed their interim Preliminary Design Review (PDR), and the mechanical engineers submitted it for grading. These accomplishments lay important groundwork for the project's continued development.
+
+# Project Risks and Obsticles
+
+The project is currently facing a few challenges. A government shutdown may lead to difficulties in maintaining consistent contact with sponsors and securing project funding if it continues for an extended period. Additionally, the team was unable to obtain necessary dimensions in time for concept generation, which means some designs might become unusable if they do not fit the chamber's specifications.
+
+# Plans for Future
+
+For the upcoming week, the team plans to present their capstone PDR and current design concepts to sponsors and engineering faculty, establish the next steps for the project, and finalize plans for an onsite visit to the explosive atmosphere chamber.
+
+# Team Meeting
+
+On October 6 and 7, 2025, the team continued refining their design concepts and preparing for the Preliminary Design Report (PDR). They evaluated the feasibility of a gantry system, robotic arm, and extended metal rod for positioning within the explosive atmosphere chamber, considering factors such as space constraints, material safety, motor requirements, and control mechanisms. The team also explored various switch actuation and tool exchange solutions, including claw attachments, stylus pads, and automatic tool-swapping systems. Concerns about visibility and camera protection were discussed, along with potential mounting strategies and the need for sealed motors and non-combustible materials. On October 7, the team developed decision matrices to compare concepts across criteria like complexity, precision, ease of use, reliability, and cost, helping guide their selection process for each mechanical function. They also addressed logistical issues such as the government shutdown, presentation planning, and citation formatting for the report.
+
+![Concept Generation Drawings](/assets/images/concept_drawing_1.PNG)

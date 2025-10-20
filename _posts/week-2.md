@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Week Two: Status Update"
+date : 9-11-2025
+---
+
+# Progress This Week
+
+This week, the team gained Dr. Kirchner and Dr. Lian as new subject matter experts. The Gantt chart has been created and populated with basic dates, and the team has reached out to their POC to plan a meeting.
+
+# Project Risks and Obsticles
+
+This week, the main obstacle encountered was finding suitable times for all team members to meet due to differing mechanical and electrical engineering schedules. No new risks were identified for the project this week.
+
+# Plans for Future
+
+For the upcoming week, the team plans to schedule and potentially meet with their POC to discuss project specifics and recurring meeting times. They will also create specific tasks for the project and begin the planning and design stage.
+
+# Team Meeting
+
+On September 15, 2025, the team met to assign roles, clarify project expectations, and assess each member’s expertise. Walker Greene was named manager and Emma Moriarty the scribe. They coordinated meeting times and contacted sponsors at Warner Robins Air Force Base, securing a future technical meeting. The project involves designing a robotic system to safely operate various controls inside an explosive atmosphere chamber, using existing ports and meeting MIL-STD-810H testing standards. The system may be mechanical or electronic and must include remote viewing capabilities while withstanding extreme conditions and hexane exposure.
